@@ -1,0 +1,22 @@
+.root {
+    --primaryColor: #E5E5E5;
+    --grey: #1F1534;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    transition: all 0.1s ease-out;
+    background-color: var(--primaryColor);
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
