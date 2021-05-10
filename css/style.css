@@ -108,12 +108,9 @@ p {
 }
 
 #header {
-    min-height: 80vh;
     background-image: url(../imgs/trafalgar-header\ illustration\ 1.png);
     background-repeat: no-repeat;
     background-position: top right;
-    background-size: contain;
-    background-position-x: 644px;
     display: flex;
 }
 
