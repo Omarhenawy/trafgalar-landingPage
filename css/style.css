@@ -399,10 +399,16 @@ p {
 }
 
 .medical-element {
+    border-radius: 55px;
+    ;
     width: 350px;
     height: 512px;
     box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
     padding-top: 80px;
+}
+
+.medical-element img {
+    border-radius: 55px;
 }
 
 .medical-head {
